@@ -16,7 +16,8 @@ Una vez que estemos en la sección de inventario de productos, seleccionar una d
 - Notificación en caso de cambios en catálogos (cambio de precios, nombres, características)
 - Que mensaje debo mostrar en caso de que por algún error no se pueda ordenar.
 - Tiempos actuales que toma el ordenamiento para el inventario actual.
-- Tiempos aceptables que toma el ordenamiento actual. 
+- Tiempos aceptables que toma el ordenamiento actual.
+- Valores límite. Cuantos caracteres usó dev para ordenamiento.
 
 ## 4.Lo que NO automatizaría (2 mínimo)
 - La revisión de la descripción del producto (validaría que existiera pero no el contenido)
