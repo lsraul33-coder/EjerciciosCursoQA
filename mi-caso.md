@@ -7,6 +7,7 @@ Una vez que estemos en la sección de inventario de productos, seleccionar una d
 1. Este flujo es principal y repetitivo cada vez que el catálogo sufre cambios (altas, bajas, modificaciones).
 2. En catálogos grandes la revisión manual del ordenamiento es tediosa y se presta a no detectar errores.
 3. El tiempo de revisión manual del ordenamiento es muy alto.
+4. Tomar en cuenta necesidades del cliente.
 
 ## 3.Lo que necesito saber antes de tocar código
 - Las secciones del sistema en donde aparece el inventario y su ordenamiento. 
